@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZQgKA9Nnj6yyoX4fPVmVFeTyt2jWvLzuX16UgB8ETSP8hxhS4q2YbcPMalJ4VfSBygSrUMW+80MkC2TbxwZEkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nanin\\source\\repos\\TestGitVersion\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nanin\\.nuget\\packages\\gitversion.commandline\\5.10.3\\gitversion.commandline.5.10.3.nupkg.sha512",
+    "C:\\Users\\nanin\\.nuget\\packages\\gitversion.msbuild\\5.10.3\\gitversion.msbuild.5.10.3.nupkg.sha512"
+  ],
+  "logs": []
+}

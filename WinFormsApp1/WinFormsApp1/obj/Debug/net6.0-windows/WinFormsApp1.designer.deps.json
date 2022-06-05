@@ -1,0 +1,29 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GitVersion.CommandLine/5.10.3": {},
+      "GitVersion.MsBuild/5.10.3": {}
+    }
+  },
+  "libraries": {
+    "GitVersion.CommandLine/5.10.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qyXwm7JpcnsSFixSZqi0UfdlZiaKsLHEfqxytHYoyy4BgieU+3Ye1bahULDr1Tjcqw25xK92NanCkFHzrk5R0w==",
+      "path": "gitversion.commandline/5.10.3",
+      "hashPath": "gitversion.commandline.5.10.3.nupkg.sha512"
+    },
+    "GitVersion.MsBuild/5.10.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UE5+vWL5xG8S/lJSh6w6bYTQxxgFuSSQLql7Czh6gM3Q0Y1XTpjufL9jtv8+xzqsAJIzvrPRyMwdGf3nf/z95Q==",
+      "path": "gitversion.msbuild/5.10.3",
+      "hashPath": "gitversion.msbuild.5.10.3.nupkg.sha512"
+    }
+  }
+}
