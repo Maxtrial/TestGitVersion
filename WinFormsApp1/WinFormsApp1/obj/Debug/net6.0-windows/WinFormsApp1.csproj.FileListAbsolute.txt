@@ -8,7 +8,6 @@ C:\Users\nanin\source\repos\TestGitVersion\WinFormsApp1\WinFormsApp1\obj\Debug\n
 C:\Users\nanin\source\repos\TestGitVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
 C:\Users\nanin\source\repos\TestGitVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\nanin\source\repos\TestGitVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\GitVersionInformation.g.cs
-C:\Users\nanin\source\repos\TestGitVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\AssemblyInfo.g.cs
 C:\Users\nanin\source\repos\TestGitVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
 C:\Users\nanin\source\repos\TestGitVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
 C:\Users\nanin\source\repos\TestGitVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
